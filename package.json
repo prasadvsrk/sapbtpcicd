@@ -28,14 +28,12 @@
     "prettier": "^2.5.1",
     "@prettier/plugin-xml": "^1.1.0",
     "@sap/eslint-plugin-ui5-jsdocs": "^2.0.5",
-    "ui5-middleware-cfdestination": "^0.7.3",
     "ui5-task-zipper": "^0.4.7",
     "cross-var": "^1.1.0",
     "mbt": "^1.2.7"
   },
   "ui5": {
     "dependencies": [
-      "ui5-middleware-cfdestination",
       "ui5-task-zipper"
     ]
   }
